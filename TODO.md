@@ -1,0 +1,2 @@
+-   print stream (responsive chat)
+-   break pdf content into several parts and read each until end
